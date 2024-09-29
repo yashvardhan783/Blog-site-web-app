@@ -1,6 +1,5 @@
 # Blog work
 
-Website - https://blog-site-by-vihan.herokuapp.com/
 
 # _About_
 
